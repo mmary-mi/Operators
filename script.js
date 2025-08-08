@@ -60,7 +60,7 @@ switch (month) {
         monthName = 'Ноябрь';
         break;
     case 12:
-        monthName = 'Декабрьь';
+        monthName = 'Декабрь';
         break;
     default:
         monthName = 'Неверный месяц';
@@ -106,7 +106,7 @@ switch (point) {
         pointName = 'Превосходно';
         break;
     default:
-        monthName = 'Неверный балл';
+        pointName = 'Неверный балл';
 }
 
 console.log(point + ' - ' + pointName);
